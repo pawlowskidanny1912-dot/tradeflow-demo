@@ -23,7 +23,7 @@ export default function Home() {
 
         <div className="mt-16 rounded-3xl bg-white shadow-xl p-10">
           <h2 className="text-2xl font-medium text-gray-900">
-            AI Powered Trading Dashboard
+           Powered Trading Dashboard
           </h2>
 
           <p className="mt-3 text-gray-500">
